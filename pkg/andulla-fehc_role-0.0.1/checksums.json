@@ -1,0 +1,12 @@
+{
+  "Gemfile": "dbc1a15e3a264c03878028240cfc5d89",
+  "LICENSE": "e3fc50a88d0a364313df4b21ef20c29e",
+  "README.md": "e36f0e2c5ea6b13f5d8a2d1cd791cc87",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "lib/facter/myrole.rb": "96c779b90a15cd903ee87f5a4fed3e4a",
+  "manifests/init.pp": "3faec1ee94a42ab348855df921ee7554",
+  "metadata.json": "43c1bce0ad1b43ba09281cc1b8b7899e",
+  "spec/classes/init_spec.rb": "25c1f5493364447b5c0247f29768b942",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "tests/init.pp": "58a62b1a7f622a0c34368076e7ae44cc"
+}
